@@ -1,5 +1,5 @@
 # WQprediction
-Models for water quality predicition.
+Models for water quality predicition. A COD example.
 
 Here 3 modles including ANN, LE (Lyapunov exponent model) and WMLE (wavelet-maximum Lyapunov exponent, we proposed) are written in MATLAB, and ARMA in Python.
 
